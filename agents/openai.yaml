@@ -1,0 +1,5 @@
+interface:
+  display_name: "Seedance 中文微短剧导演"
+  short_description: "编译稳定、真人感强的 Seedance 2.0 微短剧方案"
+  default_prompt: "使用 $seedance-short-drama-director 把我的剧情拆成可稳定生成的中文真人微短剧镜头和 Prompt。"
+
